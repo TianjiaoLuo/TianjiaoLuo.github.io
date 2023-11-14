@@ -2,8 +2,7 @@
 layout: page
 title: About Me
 ---
-![](photo.jpg){: .callout}
-.callout {
+![](photo.jpg#left)img[src*='#left'] {
     float: left;
 }
 
