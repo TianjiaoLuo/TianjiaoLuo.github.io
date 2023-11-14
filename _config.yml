@@ -1,6 +1,6 @@
 title: "Tianjiao Luo"
 author: "Blog Author"
-description: "Tsinghua University \n University of California, Berkeley"
+description: "Tsinghua University \n UC Berkeley"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,7 +8,7 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: fase        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
