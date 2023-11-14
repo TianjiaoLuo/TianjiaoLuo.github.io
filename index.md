@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-![image](path-to-image.jpg){: style="float: left"}
+![image](photo.jpg){: style="float: left"}
 
 I am currently a PhD candidate at the [Statistical Artificial Intellgent & Learning Lab (TSAIL)](https://ml.cs.tsinghua.edu.cn/) of Tsinghua University, under the guidance of Professor  [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). From 2017 to 2021, I completed my bachelor's degree at the University of California, Berkeley, with triple majors in mathematics, computer science, and data science.
 
