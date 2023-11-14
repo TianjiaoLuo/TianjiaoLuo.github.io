@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.pdf", title: "CV", icon = Home}
   - {title: "LinkedIn", url: "https://www.linkedin.com/in/tianjiao-luo-99a60bba/"}
-  - {title: "Lab", url: "https://ml.cs.tsinghua.edu.cn/"}
+  - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=8GETNEsAAAAJ&hl=en"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
