@@ -19,6 +19,15 @@ th International Conference on Machine Learning, Honolulu, Hawaii, USA. PMLR 202
 - **Luo, T.**, Zhang, J., Wu, Y. and Wang, P. *Stability Analysis of Discrete-Time Coupled Systems on Networks With Time-Varying Delay*. In 2019 Chinese Control Conference (CCC) (pp. 1201-1206). IEEE, 2019
 
 ## Work Experience 
+### Quantitative Researcher Intern
+**Lingjun Investment**, Shanghai, China, Jul. 2023- Oct. 2023
+
+### Software Engineer Intern
+**Cadence System Design**, San Jose, CA, USA, Jun. 2019- Aug. 2019
+
+### Research Assistance
+**Berkeley Institution of Data Science**, Berkeley, CA, USA, Sep.2018- Dec.2018
+
 
 ## Teaching Experience 
 
