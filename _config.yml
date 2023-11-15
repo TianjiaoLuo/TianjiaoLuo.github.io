@@ -16,7 +16,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "cv.pdf", title: "CV"}
   - {title: "LinkedIn", url: "https://www.linkedin.com/in/tianjiao-luo-99a60bba/"}
   - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=8GETNEsAAAAJ&hl=en"}
 
