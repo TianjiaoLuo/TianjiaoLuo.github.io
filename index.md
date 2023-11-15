@@ -19,15 +19,17 @@ th International Conference on Machine Learning, Honolulu, Hawaii, USA. PMLR 202
 - **Luo, T.**, Zhang, J., Wu, Y. and Wang, P. *Stability Analysis of Discrete-Time Coupled Systems on Networks With Time-Varying Delay*. In 2019 Chinese Control Conference (CCC) (pp. 1201-1206). IEEE, 2019
 
 ## Work Experience 
-Quantitative Researcher Intern,[Lingjun Investment](https://www.lingjuninvest.com/?lang=en-us), Shanghai, China, Jul. 2023- Oct. 2023
+Quantitative Researcher Intern, [Lingjun Investment](https://www.lingjuninvest.com/?lang=en-us), Shanghai, China, Jul. 2023- Oct. 2023
 
 Software Engineer Intern, [Cadence Design Systems](https://www.cadence.com/en_US/home.html), San Jose, CA, USA, Jun. 2019- Aug. 2019
 
-Research Assistance,[Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/), Berkeley, CA, USA, Sep.2018- Dec.2018
+Research Assistance, [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/), Berkeley, CA, USA, Sep.2018- Dec.2018
 
 
 ## Teaching Experience 
-
-
+- TA for Linear Algebra with Professor Yilong Yang at Tsinghua University in Fall 2023
+- TA for PhD English Writing with Professor Ying Zhang at Tsinghua University in Spring 2023
+- TA for Machine Learning with Professor Jie Tang and Professor Jun Zhu at Tsinghua University in Fall 2022
+- Reader for [Designing, Visualizing and Understanding Deep Neural Networks (CS182)](https://cs182sp21.github.io/) with Professor Sergey Levine at UC Berkeley in Spring 2020
   
   
