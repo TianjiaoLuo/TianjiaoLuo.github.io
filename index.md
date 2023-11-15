@@ -10,6 +10,7 @@ I'm currently a PhD candidate at the [Statistical Artificial Intellgent & Learni
 Email: luotj21@mails.tsinghua.edu.cn and t.luo@berkeley.edu
 
 ## Research
+My research interests encompass statistical machine learning, the theoretical aspects of deep learning, and their practical applications. Specifically, I am currently focused on generative adversarial models.
 
 ## Work Experience 
 
