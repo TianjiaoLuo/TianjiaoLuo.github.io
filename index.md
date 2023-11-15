@@ -13,7 +13,7 @@ My research interests encompass statistical machine learning, the theoretical as
 Email: luotj21@mails.tsinghua.edu.cn and t.luo@berkeley.edu
 
 ## Research
-- **Luo, T.**, Zhu Z., Chen J. and Zhu J. *Stabilizing GANs’Training with Brownian Motion Controller*. Proceedings of the 40
+- **Luo, T.**, Zhu Z., Chen J. and Zhu J. [*Stabilizing GANs’Training with Brownian Motion Controller*](https://proceedings.mlr.press/v202/luo23g/luo23g.pdf). Proceedings of the 40
 th International Conference on Machine Learning, Honolulu, Hawaii, USA. PMLR 202, 2023
 - **Luo, T.**, Wang, Q., Jia, Q. and Xu, Y. *Asymptotic and finite-time synchronization of fractional-order multiplex networks with time delays by adaptive and impulsive control*. Neurocomputing, 493, pp.445-461, 2022
 - **Luo, T.** *Stabilization of multi-group models with multiple dispersal and stochastic perturbation via feedback control based on discrete-time state observations*. Applied Mathematics and Computation, 354, pp.396-410, 2019
