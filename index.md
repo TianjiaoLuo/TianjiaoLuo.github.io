@@ -15,9 +15,9 @@ Email: luotj21@mails.tsinghua.edu.cn and t.luo@berkeley.edu
 ## Research
 - **Luo, T.**, Zhu Z., Chen J. and Zhu J. [*Stabilizing GANs’Training with Brownian Motion Controller*](https://proceedings.mlr.press/v202/luo23g/luo23g.pdf). Proceedings of the 40
 th International Conference on Machine Learning, Honolulu, Hawaii, USA. PMLR 202, 2023
-- **Luo, T.**, Wang, Q., Jia, Q. and Xu, Y. *Asymptotic and finite-time synchronization of fractional-order multiplex networks with time delays by adaptive and impulsive control*. Neurocomputing, 493, pp.445-461, 2022
-- **Luo, T.** *Stabilization of multi-group models with multiple dispersal and stochastic perturbation via feedback control based on discrete-time state observations*. Applied Mathematics and Computation, 354, pp.396-410, 2019
-- **Luo, T.**, Zhang, J., Wu, Y. and Wang, P. *Stability Analysis of Discrete-Time Coupled Systems on Networks With Time-Varying Delay*. In 2019 Chinese Control Conference (CCC) (pp. 1201-1206). IEEE, 2019
+- **Luo, T.**, Wang, Q., Jia, Q. and Xu, Y. [*Asymptotic and finite-time synchronization of fractional-order multiplex networks with time delays by adaptive and impulsive control*](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019445). Neurocomputing, 493, pp.445-461, 2022
+- **Luo, T.** [*Stabilization of multi-group models with multiple dispersal and stochastic perturbation via feedback control based on discrete-time state observations*](https://www.sciencedirect.com/science/article/abs/pii/S0096300319300670). Applied Mathematics and Computation, 354, pp.396-410, 2019
+- **Luo, T.**, Zhang, J., Wu, Y. and Wang, P. [*Stability Analysis of Discrete-Time Coupled Systems on Networks With Time-Varying Delay*](https://ieeexplore.ieee.org/document/8865586). In 2019 Chinese Control Conference (CCC) (pp. 1201-1206). IEEE, 2019
 
 ## Work Experience 
 Quantitative Researcher Intern, [Lingjun Investment](https://www.lingjuninvest.com/?lang=en-us), Shanghai, China, Jul. 2023- Oct. 2023
