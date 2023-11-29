@@ -24,7 +24,7 @@ Quantitative Researcher Intern, [Lingjun Investment](https://www.lingjuninvest.c
 
 Software Engineer Intern, [Cadence Design Systems](https://www.cadence.com/en_US/home.html), San Jose, CA, USA, Jun. 2019- Aug. 2019
 
-Research Assistance, [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/), Berkeley, CA, USA, Sep.2018- Dec.2018
+Research Assistant, [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/), Berkeley, CA, USA, Sep.2018- Dec.2018
 
 
 ## Teaching Experience 
