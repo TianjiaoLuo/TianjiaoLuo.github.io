@@ -13,6 +13,7 @@ My research interests encompass statistical machine learning, the theoretical as
 Email: luotj21@mails.tsinghua.edu.cn and t.luo@berkeley.edu
 
 ## Research
+- **Luo, T.**, Pearce T., Chen H., Chen J. and Zhu J. [*C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control Theory*](https://arxiv.org/abs/2402.16349). ICLR Workshop on Generative Models for Decision Making, 2024
 - **Luo, T.**, Zhu Z., Chen J. and Zhu J. [*Stabilizing GANs’Training with Brownian Motion Controller*](https://proceedings.mlr.press/v202/luo23g/luo23g.pdf). Proceedings of the 40
 th International Conference on Machine Learning, Honolulu, Hawaii, USA. PMLR 202, 2023
 - **Luo, T.**, Wang, Q., Jia, Q. and Xu, Y. [*Asymptotic and finite-time synchronization of fractional-order multiplex networks with time delays by adaptive and impulsive control*](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019445). Neurocomputing, 493, pp.445-461, 2022
@@ -26,8 +27,11 @@ Software Engineer Intern, [Cadence Design Systems](https://www.cadence.com/en_US
 
 Research Assistant, [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/), Berkeley, CA, USA, Sep.2018- Dec.2018
 
+## Services
+Reviewer for ICML 2024, ICLR 2024, TPAMI
 
 ## Teaching Experience 
+- TA for Deep Learning with Professor Jun Zhu and Professor Xiaolin Hu at Tsinghua University in Spring 2024
 - TA for Linear Algebra with Professor Yilong Yang at Tsinghua University in Fall 2023
 - TA for PhD English Writing with Professor Ying Zhang at Tsinghua University in Spring 2023
 - TA for Machine Learning with Professor Jie Tang and Professor Jun Zhu at Tsinghua University in Fall 2022
