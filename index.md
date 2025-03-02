@@ -31,6 +31,7 @@ Research Assistant, [Berkeley Institute for Data Science (BIDS)](https://bids.be
 Reviewer for ICML, ICLR, NeurIPS, and TPAMI
 
 ## Teaching Experience 
+- Head TA for Statistical Machine Learning with Professor Jun Zhu at Tsinghua University in Spring 2025
 - TA for Deep Learning with Professor Jun Zhu and Professor Xiaolin Hu at Tsinghua University in Spring 2024
 - TA for Linear Algebra with Professor Yilong Yang at Tsinghua University in Fall 2023
 - TA for PhD English Writing with Professor Ying Zhang at Tsinghua University in Spring 2023
