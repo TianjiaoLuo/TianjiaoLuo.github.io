@@ -8,7 +8,7 @@ title: Tianjiao (Candice) Luo
 ## About Me
 I'm currently a PhD candidate at the [Statistical Artificial Intellgent & Learning Lab (TSAIL)](https://ml.cs.tsinghua.edu.cn/) of Tsinghua University, under the guidance of Professor  [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). From 2017 to 2021, I completed my bachelor's degree at the University of California, Berkeley, with triple majors in mathematics, computer science, and data science.
 
-My research interests encompass statistical machine learning, the theoretical aspects of deep learning, and their practical applications. Specifically, I am currently focused on generative adversarial models.
+My research interests encompass machine learning, the theoretical aspects of deep learning, and their practical applications. Specifically, I am currently focused on generative models, reinforcement learning and optimization theory.
 
 Email: luotj21@mails.tsinghua.edu.cn and t.luo@berkeley.edu
 
@@ -28,7 +28,7 @@ Software Engineer Intern, [Cadence Design Systems](https://www.cadence.com/en_US
 Research Assistant, [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/), Berkeley, CA, USA, Sep.2018- Dec.2018
 
 ## Services
-Reviewer for ICML, ICLR, NeurIPS, and TPAMI
+Reviewer for ICML, ICLR, NeurIPS, AAAI, and TPAMI
 
 ## Teaching Experience 
 - Head TA for Statistical Machine Learning with Professor Jun Zhu at Tsinghua University in Spring 2025
