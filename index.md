@@ -21,6 +21,8 @@ th International Conference on Machine Learning (ICML), Honolulu, Hawaii, USA. P
 - **Luo, T.**, Zhang, J., Wu, Y. and Wang, P. [*Stability Analysis of Discrete-Time Coupled Systems on Networks With Time-Varying Delay*](https://ieeexplore.ieee.org/document/8865586). In 2019 Chinese Control Conference (CCC) (pp. 1201-1206). IEEE, 2019
 
 ## Work Experience 
+Quantitative Researcher Intern, [Black Wing Asset](https://blackwingasset.com/), Beijing, China, Apr. 2025- Aug. 2025
+
 Quantitative Researcher Intern, [Lingjun Investment](https://www.lingjuninvest.com/?lang=en-us), Shanghai, China, Jul. 2023- Oct. 2023
 
 Software Engineer Intern, [Cadence Design Systems](https://www.cadence.com/en_US/home.html), San Jose, CA, USA, Jun. 2019- Aug. 2019
@@ -28,7 +30,7 @@ Software Engineer Intern, [Cadence Design Systems](https://www.cadence.com/en_US
 Research Assistant, [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/), Berkeley, CA, USA, Sep.2018- Dec.2018
 
 ## Services
-Reviewer for ICML, ICLR, NeurIPS, AAAI, and TPAMI
+Reviewer for ICML, ICLR, NeurIPS, AAAI and TPAMI
 
 ## Teaching Experience 
 - Head TA for Statistical Machine Learning with Professor Jun Zhu at Tsinghua University in Spring 2025
